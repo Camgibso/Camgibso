@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cam
-- 👀 I’m interested in Automation Scripting, PLC Programming, and making programs to do things I don't want to do
+- 👀 I’m interested in Automation Scripting, PLC Programming
 - 🌱 I’m currently learning more about C#, SQL, Python
 
 <!---
