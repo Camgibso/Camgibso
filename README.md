@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Cam
-- 👀 I’m interested in Automation Scripting, PLC Programming
-- 🌱 I’m currently learning more about C#, SQL, Python
+- 👋 Hi, I’m Cameron
+- 👀 I’m interested in Automation
+- 🌱 I’m currently learning more about C#, MSSQL, Python, VB
 
 <!---
 Camgibso/Camgibso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
